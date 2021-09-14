@@ -45,6 +45,8 @@ public class BaseCtl {
     @ModelAttribute
     public void preload(Model model) {
         System.out.println("this is preload method");
+	     System.out.println("cpyy");
+	    
     }
 	
 }
